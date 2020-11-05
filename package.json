@@ -1,11 +1,6 @@
-/* MIT LICENSE -
-
-Author : Ananth
-
-*/
-
 {
-  "name": "Responsive-Sidebar"
+  "name": "Responsive-Sidebar",
+  "author":"Ananth Shanmugam",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
